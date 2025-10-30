@@ -44,7 +44,7 @@ Write operations use Bear's official [x-callback-url API](https://bear.app/faq/x
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mcp-bear
+git clone https://github.com/maxim-ist/mcp-bear.git
 cd mcp-bear
 
 # Install dependencies (using mise for Python version management)

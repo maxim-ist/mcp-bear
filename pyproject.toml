@@ -1,6 +1,6 @@
 [project]
 name = "mcp-bear"
-version = "1.0.0"
+version = "1.1.0"
 description = "MCP server for accessing Bear Notes"
 authors = [{ name = "Bora Gonul", email = "me@boragonul.com" }]
 readme = "README.md"
